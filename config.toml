@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Hello, I am Anuar and it is my personal page."
+  homeSubtitle = "Hello, I am Anuar, nothing interesting here for now, just a stub page."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -65,16 +65,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://github.com/anuar45"
 
 [menu]
-  [[menu.main]]
-    name = "Projects"
-    url = "projects/"
-    weight = 10
-
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 20
-
   [[menu.main]]
     name = "About"
     url = "about/"

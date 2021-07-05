@@ -1,35 +1,37 @@
 ---
 title: "About"
-date: 2020-12-17T09:00:00+02:00
+date: 2021-07-05T09:00:00+02:00
 ---
 
 ## Summary
 
-I am a Systems Engineer with 10+ years of planning, designing, implementing and supporting IT Infrastructure Services.
+I am a Systems Engineer with 10+ years of experience in planning, designing, implementing and supporting various IT Infrastructure Services.
 
 Currently interested in SE/SRE activities and Go programming.
 
 ### Skills
-* Active now: 
-    * Go, Kubernetes, Docker, Mongo, Git
-    * CHEF, Teamcity, Bitbucket, Gitlab
-    * Grafana, Influx, Prometheus
-    * Linux only
-    * ITIL, Agile, DevOps
+* Doing now: 
+    * Development with: Go, Python, Postgres, Redis
+    * Runs on: Cloud, Kubernetes, Docker, Linux
+    * Automated by: Argo, Git, Gitlab
+    * Monitored thru: Grafana, Loki, ELK, Influx, Prometheus
+    * Work style: Agile SCRUM, DevOps and ITIL, Confluence
 
 * Back in a days: 
-    * HP Servers, Blades, Storages, Switches, Tape Libraries;
+    * Bitbucket and Teamcity, CHEF
+    * HP Servers, Blades, Storages, Switches, Routers, Tape Libraries
+    * Dual geo distributed datacenter setup and support
     * VMware vSphere and SRM, Microsoft Hyper-V Cluster 
-    * Windows Servers and Linux
+    * Linux/Windows infrastructure
     * Microsoft Exchange, Active Directory, Lync/S4B, FIM/IDM, RDS, Citrix XenApp
     * Zabbix, SCOM
     * Python, ASP .Net MVC, Powershell
     * Microsoft SQL Server
-    * etc.........
+    * etc...
 
 ### High education
 Department: Computer Science
-University: Volga State University of Telecommunications and Informatics
+University: Povolzhskiy State University of Telecommunications and Informatics
 Years: 2003 -2008
 Location: Samara city, Russia
 Degree: Software Engineer
@@ -43,4 +45,4 @@ Degree: Software Engineer
 * ITIL v3 Foundation
 
 ### Personal interests
-Fishing, running, learning, casual gaming.
+Fishing, learning new, casual gaming.
